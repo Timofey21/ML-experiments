@@ -1,0 +1,1 @@
+Dataset: https://www.inf.u-szeged.hu/~ferenc/papers/JSVulnerabilityDataSet
